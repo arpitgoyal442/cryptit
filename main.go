@@ -3,8 +3,8 @@ package main
 import (
 
 	// These 2 lines below are importing within the same Module i.e. github.com/arpit/module2
-	"github.com/arpit/module2/encrypt"
-	"github.com/arpit/module2/decrypt"
+	"github.com/arpitgoyal442/cryptit/encrypt"
+	"github.com/arpitgoyal442/cryptit/decrypt"
 
 
 	
